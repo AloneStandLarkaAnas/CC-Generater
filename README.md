@@ -23,7 +23,7 @@ apt-get update && apt-get upgrade && apt-get install git python3 nodejs
 https://github.com/AloneStandLarkaAnas/CC-Generater
 ```
 ```
-cd Fox-CC
+cd CC-Generater
 ```
 ```
 pip3 install -r requirements.txt
